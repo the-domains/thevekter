@@ -1,4 +1,4 @@
-name: (the_vekter)
+name: the(vekter)
 favicon: null
 layout_spectrum: 0.95961
 typography_spectrum: 0.2146
@@ -17,11 +17,11 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#000d04'
-    - '#5ae200'
-    - '#00a006'
-    - '#485d29'
-    - '#eec893'
+    - '#ff0000'
+    - '#009a7d'
+    - '#010207'
+    - '#ffcb00'
+    - '#c6d4f9'
   brandStrength: 0.44397909427061677
   lightness: 0.786732901353389
   saturation: 0.8262764089740813
