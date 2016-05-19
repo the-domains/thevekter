@@ -5,14 +5,14 @@ inNav: false
 inLanguage: null
 keywords: []
 description: moving forward facing backwards
-datePublished: '2016-05-18T22:10:21.647Z'
-dateModified: '2016-05-18T22:09:57.811Z'
+datePublished: '2016-05-19T13:42:21.958Z'
+dateModified: '2016-05-19T13:42:05.105Z'
 title: ''
 author: []
+sourcePath: _posts/2016-05-18-moving-forward-facing-backwards.md
 authors: []
 publisher: null
 starred: false
-sourcePath: _posts/2016-05-18-moving-forward-facing-backwards.md
 url: moving-forward-facing-backwards/index.html
 _type: Article
 
